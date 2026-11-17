@@ -75,11 +75,11 @@ Además, incorpora un dashboard administrativo con indicadores estadísticos, gr
 
 **Roles disponibles:**
 
-| Rol | Acceso |
-|---|---|
-| Administrador | Administración completa del sistema. |
-| Supervisor | Acceso a las funcionalidades operativas autorizadas. |
-| Operario | Consulta de información y registro de entregas según sus permisos. |
+| Rol           | Acceso                                                             |
+| ------------- | ------------------------------------------------------------------ |
+| Administrador | Administración completa del sistema.                               |
+| Supervisor    | Acceso a las funcionalidades operativas autorizadas.               |
+| Operario      | Consulta de información y registro de entregas según sus permisos. |
 
 ### Historial y auditoría
 
@@ -106,20 +106,20 @@ Además, incorpora un dashboard administrativo con indicadores estadísticos, gr
   <img src="https://skillicons.dev/icons?i=php,laravel,mysql,tailwind,alpinejs,js,html,css,vite,npm,git,github" alt="Tecnologías utilizadas">
 </p>
 
-| Tecnología | Aplicación |
-|---|---|
-| PHP 8.4 | Lenguaje de programación backend. |
-| Laravel 13 | Framework principal de desarrollo. |
-| Filament 5 | Panel administrativo y gestión de recursos. |
-| Livewire 4 | Componentes dinámicos e interactivos. |
-| MySQL | Gestión de base de datos. |
-| Tailwind CSS | Diseño y estilos de interfaz. |
-| Alpine.js | Interactividad del frontend. |
-| Spatie Permission | Administración de roles y permisos. |
-| Spatie Activitylog | Registro y auditoría de actividades. |
-| Composer | Administración de dependencias PHP. |
-| NPM | Administración de dependencias frontend. |
-| Vite | Compilación de recursos frontend. |
+| Tecnología         | Aplicación                                  |
+| ------------------ | ------------------------------------------- |
+| PHP 8.4            | Lenguaje de programación backend.           |
+| Laravel 13         | Framework principal de desarrollo.          |
+| Filament 5         | Panel administrativo y gestión de recursos. |
+| Livewire 4         | Componentes dinámicos e interactivos.       |
+| MySQL              | Gestión de base de datos.                   |
+| Tailwind CSS       | Diseño y estilos de interfaz.               |
+| Alpine.js          | Interactividad del frontend.                |
+| Spatie Permission  | Administración de roles y permisos.         |
+| Spatie Activitylog | Registro y auditoría de actividades.        |
+| Composer           | Administración de dependencias PHP.         |
+| NPM                | Administración de dependencias frontend.    |
+| Vite               | Compilación de recursos frontend.           |
 
 ---
 
@@ -265,21 +265,30 @@ El sistema incorpora mecanismos para proteger la información y mantener la cons
 
 ---
 
+
 ## Capturas de pantalla
 
-A continuación, se muestran algunas de las principales interfaces de **Códigos Acabados**.
+A continuación, se muestran las principales interfaces de **Códigos Acabados**.
 
 ### Dashboard
 
-\<p align="center">
-&#x20; \<img src="screenshots/dashboard.png" width="100%" alt="Dashboard de Códigos Acabados">
-\</p>
+![Dashboard de Códigos Acabados](screenshots/dashboard.png)
+
+---
 
 ### Módulos del sistema
 
-\<table>   \<tr>     \<td width="50%" align="center">       \<strong>Gestión de códigos\</strong>       \<br>\<br>       \<img src="screenshots/codigos.png" width="100%" alt="Gestión de códigos">     \</td>     \<td width="50%" align="center">       \<strong>Gestión de entregas\</strong>       \<br>\<br>       \<img src="screenshots/entregas.png" width="100%" alt="Gestión de entregas">     \</td>   \</tr>   \<tr>     \<td width="50%" align="center">       \<strong>Gestión de trabajadores\</strong>       \<br>\<br>       \<img src="screenshots/trabajadores.png" width="100%" alt="Gestión de trabajadores">     \</td>     \<td width="50%" align="center">       \<strong>Historial de actividades\</strong>       \<br>\<br>       \<img src="screenshots/actividades.png" width="100%" alt="Historial de actividades">     \</td>   \</tr>   \<tr>     \<td colspan="2" align="center">       \<strong>Configuración del sistema\</strong>       \<br>\<br>       \<img src="screenshots/configuracion.png" width="85%" alt="Configuración del sistema">     \</td>   \</tr> \</table>
+| Gestión de códigos | Gestión de entregas |
+|:---:|:---:|
+| ![Gestión de códigos](screenshots/codigos.png) | ![Gestión de entregas](screenshots/entregas.png) |
 
+| Gestión de trabajadores | Historial de actividades |
+|:---:|:---:|
+| ![Gestión de trabajadores](screenshots/trabajadores.png) | ![Historial de actividades](screenshots/actividades.png) |
 
+### Configuración del sistema
+
+![Configuración del sistema](screenshots/configuracion.png)
 ---
 
 ## Objetivo del proyecto
