@@ -266,13 +266,14 @@ El sistema incorpora mecanismos para proteger la información y mantener la cons
 ---
 
 
+
 ## Capturas de pantalla
 
 A continuación, se muestran las principales interfaces de **Códigos Acabados**.
 
 ### Dashboard
 
-![Dashboard de Códigos Acabados](screenshots/dashboard.png)
+![Dashboard de Códigos Acabados](screenshots/dashboard.PNG)
 
 ---
 
@@ -280,15 +281,16 @@ A continuación, se muestran las principales interfaces de **Códigos Acabados**
 
 | Gestión de códigos | Gestión de entregas |
 |:---:|:---:|
-| ![Gestión de códigos](screenshots/codigos.png) | ![Gestión de entregas](screenshots/entregas.png) |
+| ![Gestión de códigos](screenshots/codigos.PNG) | ![Gestión de entregas](screenshots/entregas.PNG) |
 
 | Gestión de trabajadores | Historial de actividades |
 |:---:|:---:|
-| ![Gestión de trabajadores](screenshots/trabajadores.png) | ![Historial de actividades](screenshots/actividades.png) |
+| ![Gestión de trabajadores](screenshots/trabajadores.PNG) | ![Historial de actividades](screenshots/actividades.PNG) |
 
 ### Configuración del sistema
 
-![Configuración del sistema](screenshots/configuracion.png)
+![Configuración del sistema](screenshots/configuracion.PNG)
+
 ---
 
 ## Objetivo del proyecto
