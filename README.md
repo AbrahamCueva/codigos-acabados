@@ -267,21 +267,18 @@ El sistema incorpora mecanismos para proteger la información y mantener la cons
 
 ## Capturas de pantalla
 
-Las siguientes imágenes pueden incorporarse para mostrar las principales interfaces del sistema.
+A continuación, se muestran algunas de las principales interfaces de **Códigos Acabados**.
 
-| Dashboard | Gestión de códigos |
-|---|---|
-| `screenshots/dashboard.png` | `screenshots/codigos.png` |
+### Dashboard
 
-| Gestión de entregas | Gestión de trabajadores |
-|---|---|
-| `screenshots/entregas.png` | `screenshots/trabajadores.png` |
+\<p align="center">
+&#x20; \<img src="screenshots/dashboard.png" width="100%" alt="Dashboard de Códigos Acabados">
+\</p>
 
-| Historial de actividades | Configuración |
-|---|---|
-| `screenshots/actividades.png` | `screenshots/configuracion.png` |
+### Módulos del sistema
 
-> Para visualizar las imágenes, agrega las capturas correspondientes dentro de la carpeta `screenshots/` y utiliza rutas Markdown como `![Dashboard](screenshots/dashboard.png)`.
+\<table>   \<tr>     \<td width="50%" align="center">       \<strong>Gestión de códigos\</strong>       \<br>\<br>       \<img src="screenshots/codigos.png" width="100%" alt="Gestión de códigos">     \</td>     \<td width="50%" align="center">       \<strong>Gestión de entregas\</strong>       \<br>\<br>       \<img src="screenshots/entregas.png" width="100%" alt="Gestión de entregas">     \</td>   \</tr>   \<tr>     \<td width="50%" align="center">       \<strong>Gestión de trabajadores\</strong>       \<br>\<br>       \<img src="screenshots/trabajadores.png" width="100%" alt="Gestión de trabajadores">     \</td>     \<td width="50%" align="center">       \<strong>Historial de actividades\</strong>       \<br>\<br>       \<img src="screenshots/actividades.png" width="100%" alt="Historial de actividades">     \</td>   \</tr>   \<tr>     \<td colspan="2" align="center">       \<strong>Configuración del sistema\</strong>       \<br>\<br>       \<img src="screenshots/configuracion.png" width="85%" alt="Configuración del sistema">     \</td>   \</tr> \</table>
+
 
 ---
 
